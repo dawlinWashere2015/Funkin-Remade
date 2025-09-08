@@ -1,4 +1,6 @@
 # Funkin-Remade
+A remake of a popular game remade in GDevelop.
+
 GET OFFICIAL GAME HERE https://ninja-muffin24.itch.io/funkin
 
 <img width="806" height="429" alt="logoBumpin" src="https://github.com/user-attachments/assets/b5fb50ed-61ea-42bf-aa23-0f531dd94b7a" />
